@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/yoloj-master/static/css/main.1d5628ed.chunk.css",
+    "main.js": "/yoloj-master/static/js/main.8b2284fb.chunk.js",
+    "main.js.map": "/yoloj-master/static/js/main.8b2284fb.chunk.js.map",
+    "runtime~main.js": "/yoloj-master/static/js/runtime~main.d4fcf57a.js",
+    "runtime~main.js.map": "/yoloj-master/static/js/runtime~main.d4fcf57a.js.map",
+    "static/js/2.43ab10da.chunk.js": "/yoloj-master/static/js/2.43ab10da.chunk.js",
+    "static/js/2.43ab10da.chunk.js.map": "/yoloj-master/static/js/2.43ab10da.chunk.js.map",
+    "index.html": "/yoloj-master/index.html",
+    "precache-manifest.0456eb85f7766e989657f789fa8b29e3.js": "/yoloj-master/precache-manifest.0456eb85f7766e989657f789fa8b29e3.js",
+    "service-worker.js": "/yoloj-master/service-worker.js",
+    "static/css/main.1d5628ed.chunk.css.map": "/yoloj-master/static/css/main.1d5628ed.chunk.css.map",
+    "static/media/materialize.min.css": "/yoloj-master/static/media/Roboto-Thin.44b78f14.woff",
+    "static/media/style.css": "/yoloj-master/static/media/down-arrow.7aa93e50.jpg"
+  }
+}
